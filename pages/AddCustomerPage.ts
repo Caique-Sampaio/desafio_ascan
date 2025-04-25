@@ -48,7 +48,7 @@ export class AddCustomerPage {
       }
 
     public async isDefaultCustomerForm() {
-        await expect(this.fieldFirstName).toBeVisible();
+        await expect(this.fieldFirstName).toBeEmpty();
         await expect(this.fieldLastName).toBeEmpty();
         await expect(this.fieldPostCode).toBeEmpty();
     }
