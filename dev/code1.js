@@ -20,4 +20,4 @@ function calculadora(operacao, num1, num2) {
 console.log(calculadora('somar', 5, 3)); // 8
 console.log(calculadora('subtrair', 5, 3)); // 2
 console.log(calculadora('multiplicar', 5, 3)); // 15
-console.log(calculadora('dividir', 5, 0)); // Erro: divisão por zero
+console.log(calculadora('dividir', 10, 2)); // Erro: divisão por zero
