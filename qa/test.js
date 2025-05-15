@@ -16,3 +16,6 @@ describe('code1.js Tests', () => {
 
     // Add more specific tests based on the content of code1.js
 });
+
+// adicionando comentário da feature/create-test-case
+// um novo caso de teste
