@@ -18,3 +18,6 @@ describe('code1.js Tests', () => {
 });
 
 //adicionando um comentário da feature/refactor-old-test-case
+
+// adicionando comentário da feature/create-test-case
+// um novo caso de teste
