@@ -16,3 +16,5 @@ describe('code1.js Tests', () => {
 
     // Add more specific tests based on the content of code1.js
 });
+
+//adicionando um comentário da feature/refactor-old-test-case
